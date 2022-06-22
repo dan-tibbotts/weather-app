@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": 172.6333, "lat": -43.5333 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 287.58,
+    "feels_like": 286.65,
+    "temp_min": 286.19,
+    "temp_max": 288.38,
+    "pressure": 1015,
+    "humidity": 60
+  },
+  "visibility": 10000,
+  "wind": { "speed": 8.23, "deg": 180 },
+  "clouds": { "all": 9 },
+  "dt": 1653444054,
+  "sys": {
+    "type": 2,
+    "id": 2042236,
+    "country": "NZ",
+    "sunrise": 1653421568,
+    "sunset": 1653455212
+  },
+  "timezone": 43200,
+  "id": 2192362,
+  "name": "Christchurch",
+  "cod": 200
+}
